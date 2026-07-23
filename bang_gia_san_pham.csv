@@ -1,0 +1,46 @@
+product_id,product_name,category,unit,spec,list_price_vnd,moq_units,bulk_discount_rule,lead_time_days
+SP001,Nước ngọt có ga Cola 330ml,Nước giải khát,Thùng,24 lon,195000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,2
+SP002,Nước ngọt có ga Cam 330ml,Nước giải khát,Thùng,24 lon,192000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,1
+SP003,Nước suối tinh khiết 500ml,Nước giải khát,Thùng,24 chai,88000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,2
+SP004,Nước suối tinh khiết 1.5L,Nước giải khát,Thùng,12 chai,105000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,1
+SP005,Trà xanh không độ 455ml,Nước giải khát,Thùng,24 chai,168000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,1
+SP006,Trà ô long 450ml,Nước giải khát,Thùng,24 chai,175000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,3
+SP007,Nước tăng lực Number 1,Nước giải khát,Thùng,24 chai,205000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,1
+SP008,Nước ép cam ép 1L,Nước giải khát,Thùng,12 hộp,288000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,2
+SP009,Sữa tươi tiệt trùng 180ml,Sữa & chế phẩm,Thùng,48 hộp,425000,10,20+ thùng: -3% | 50+ thùng: -5% | 100+ thùng: -8%,3
+SP010,Sữa đặc có đường 380g,Sữa & chế phẩm,Thùng,48 lon,890000,10,20+ thùng: -3% | 50+ thùng: -5% | 100+ thùng: -8%,1
+SP011,Sữa chua uống men sống 65ml,Sữa & chế phẩm,Thùng,48 chai,312000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,3
+SP012,Sữa bột nguyên kem 400g,Sữa & chế phẩm,Thùng,12 hộp,1450000,5,10+ thùng: -3% | 25+ thùng: -5% | 50+ thùng: -7%,1
+SP013,Bánh quy bơ hộp thiếc 340g,Bánh kẹo,Thùng,12 hộp,720000,10,20+ thùng: -3% | 50+ thùng: -5% | 100+ thùng: -8%,1
+SP014,Bánh gạo vị ngọt 150g,Bánh kẹo,Thùng,30 gói,285000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,1
+SP015,Bánh trứng cuộn 200g,Bánh kẹo,Thùng,24 hộp,396000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,2
+SP016,Kẹo dẻo trái cây 100g,Bánh kẹo,Thùng,50 gói,340000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,2
+SP017,Snack khoai tây vị BBQ 60g,Bánh kẹo,Thùng,60 gói,390000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,1
+SP018,Bánh trung thu thập cẩm 200g,Bánh kẹo,Thùng,24 hộp,1680000,5,10+ thùng: -3% | 25+ thùng: -5% | 50+ thùng: -7%,1
+SP019,Mì ăn liền tôm chua cay,Thực phẩm khô,Thùng,30 gói,132000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,1
+SP020,Mì ăn liền bò hầm,Thực phẩm khô,Thùng,30 gói,128000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,3
+SP021,Phở ăn liền bò,Thực phẩm khô,Thùng,30 gói,168000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,2
+SP022,Cháo ăn liền thịt bằm,Thực phẩm khô,Thùng,30 gói,156000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,1
+SP023,Bún gạo khô 500g,Thực phẩm khô,Thùng,20 gói,340000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,3
+SP024,Gạo thơm ST25 túi 5kg,Thực phẩm khô,Bao,4 túi 5kg,620000,10,20+ thùng: -3% | 50+ thùng: -5% | 100+ thùng: -8%,1
+SP025,Dầu ăn thực vật 1L,Gia vị & dầu ăn,Thùng,12 chai,468000,10,20+ thùng: -3% | 50+ thùng: -5% | 100+ thùng: -8%,1
+SP026,Nước mắm cốt 500ml,Gia vị & dầu ăn,Thùng,12 chai,396000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,3
+SP027,Nước tương đậu nành 500ml,Gia vị & dầu ăn,Thùng,12 chai,228000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,1
+SP028,Tương ớt 250g,Gia vị & dầu ăn,Thùng,24 chai,264000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,3
+SP029,Hạt nêm 900g,Gia vị & dầu ăn,Thùng,12 gói,585000,10,20+ thùng: -3% | 50+ thùng: -5% | 100+ thùng: -8%,3
+SP030,Muối i-ốt 500g,Gia vị & dầu ăn,Thùng,40 gói,152000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,2
+SP031,Đường tinh luyện 1kg,Gia vị & dầu ăn,Bao,12 túi,264000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,1
+SP032,Bột ngọt 400g,Gia vị & dầu ăn,Thùng,24 gói,552000,10,20+ thùng: -3% | 50+ thùng: -5% | 100+ thùng: -8%,1
+SP033,Cà phê hòa tan 3in1 hộp 20 gói,Cà phê & trà,Thùng,24 hộp,936000,5,10+ thùng: -3% | 25+ thùng: -5% | 50+ thùng: -7%,1
+SP034,Cà phê rang xay 500g,Cà phê & trà,Thùng,20 gói,1240000,5,10+ thùng: -3% | 25+ thùng: -5% | 50+ thùng: -7%,3
+SP035,Trà túi lọc hương nhài 25 gói,Cà phê & trà,Thùng,48 hộp,672000,10,20+ thùng: -3% | 50+ thùng: -5% | 100+ thùng: -8%,1
+SP036,Trà atiso túi lọc 20 gói,Cà phê & trà,Thùng,40 hộp,520000,10,20+ thùng: -3% | 50+ thùng: -5% | 100+ thùng: -8%,2
+SP037,Nước rửa chén chanh 750ml,Hóa mỹ phẩm,Thùng,12 chai,312000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,2
+SP038,Nước lau sàn hương lavender 1L,Hóa mỹ phẩm,Thùng,12 chai,384000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,1
+SP039,Bột giặt 3kg,Hóa mỹ phẩm,Thùng,4 túi,456000,10,20+ thùng: -3% | 50+ thùng: -5% | 100+ thùng: -8%,3
+SP040,Nước xả vải 1.8L,Hóa mỹ phẩm,Thùng,6 túi,522000,10,20+ thùng: -3% | 50+ thùng: -5% | 100+ thùng: -8%,1
+SP041,Dầu gội bồ kết 650ml,Hóa mỹ phẩm,Thùng,12 chai,828000,10,20+ thùng: -3% | 50+ thùng: -5% | 100+ thùng: -8%,3
+SP042,Sữa tắm hương hoa 900ml,Hóa mỹ phẩm,Thùng,12 chai,948000,5,10+ thùng: -3% | 25+ thùng: -5% | 50+ thùng: -7%,2
+SP043,Kem đánh răng bạc hà 180g,Hóa mỹ phẩm,Thùng,24 tuýp,576000,10,20+ thùng: -3% | 50+ thùng: -5% | 100+ thùng: -8%,3
+SP044,Giấy vệ sinh 10 cuộn,Hóa mỹ phẩm,Thùng,8 lốc,456000,10,20+ thùng: -3% | 50+ thùng: -5% | 100+ thùng: -8%,1
+SP045,Khăn giấy rút 180 tờ,Hóa mỹ phẩm,Thùng,30 hộp,390000,10,30+ thùng: -2% | 80+ thùng: -4% | 150+ thùng: -7%,1

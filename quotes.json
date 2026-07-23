@@ -1,0 +1,26 @@
+[
+  {
+    "quote_id": "BG20260723101543074855",
+    "customer_id": "KH009",
+    "items": [
+      {
+        "product_id": "SP019",
+        "product_name": "Mì ăn liền tôm chua cay",
+        "qty_units": 100,
+        "list_price_vnd": 132000.0,
+        "subtotal_vnd": 13200000.0
+      },
+      {
+        "product_id": "SP025",
+        "product_name": "Dầu ăn thực vật 1L",
+        "qty_units": 50,
+        "list_price_vnd": 468000.0,
+        "subtotal_vnd": 23400000.0
+      }
+    ],
+    "delivery_note": "Giao kho Hải Dương, yêu cầu giao thứ 5 (23/7/2026). Lead time 1 ngày cho cả 2 mã.",
+    "notes": "Báo giá cho Đại lý Kim Long: 100 thùng mì tôm chua cay + 50 thùng dầu ăn 1L. Lưu ý: SP019 chỉ còn 3 thùng tồn, cần tư vấn thay thế hoặc đặt hàng chờ.",
+    "total_vnd": 36600000.0,
+    "created_at": "2026-07-23T10:15:43.074855+00:00"
+  }
+]

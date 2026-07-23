@@ -1,0 +1,452 @@
+[
+  {
+    "product_id": "SP001",
+    "product_name": "Nước ngọt có ga Cola 330ml",
+    "qty_on_hand_units": 137,
+    "qty_reserved_units": 35,
+    "qty_available_units": 115,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP002",
+    "product_name": "Nước ngọt có ga Cam 330ml",
+    "qty_on_hand_units": 610,
+    "qty_reserved_units": 31,
+    "qty_available_units": 595,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP003",
+    "product_name": "Nước suối tinh khiết 500ml",
+    "qty_on_hand_units": 125,
+    "qty_reserved_units": 3,
+    "qty_available_units": 91,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP004",
+    "product_name": "Nước suối tinh khiết 1.5L",
+    "qty_on_hand_units": 323,
+    "qty_reserved_units": 10,
+    "qty_available_units": 320,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP005",
+    "product_name": "Trà xanh không độ 455ml",
+    "qty_on_hand_units": 0,
+    "qty_reserved_units": 0,
+    "qty_available_units": 0,
+    "stock_status": "Hết hàng",
+    "restock_eta_date": "2026-07-29",
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP006",
+    "product_name": "Trà ô long 450ml",
+    "qty_on_hand_units": 738,
+    "qty_reserved_units": 32,
+    "qty_available_units": 712,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP007",
+    "product_name": "Nước tăng lực Number 1",
+    "qty_on_hand_units": 145,
+    "qty_reserved_units": 19,
+    "qty_available_units": 105,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP008",
+    "product_name": "Nước ép cam ép 1L",
+    "qty_on_hand_units": 821,
+    "qty_reserved_units": 30,
+    "qty_available_units": 787,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP009",
+    "product_name": "Sữa tươi tiệt trùng 180ml",
+    "qty_on_hand_units": 527,
+    "qty_reserved_units": 29,
+    "qty_available_units": 522,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP010",
+    "product_name": "Sữa đặc có đường 380g",
+    "qty_on_hand_units": 6,
+    "qty_reserved_units": 2,
+    "qty_available_units": 5,
+    "stock_status": "Sắp hết",
+    "restock_eta_date": "2026-07-31",
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP011",
+    "product_name": "Sữa chua uống men sống 65ml",
+    "qty_on_hand_units": 25,
+    "qty_reserved_units": 8,
+    "qty_available_units": 3,
+    "stock_status": "Sắp hết",
+    "restock_eta_date": "2026-07-26",
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP012",
+    "product_name": "Sữa bột nguyên kem 400g",
+    "qty_on_hand_units": 775,
+    "qty_reserved_units": 27,
+    "qty_available_units": 742,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP013",
+    "product_name": "Bánh quy bơ hộp thiếc 340g",
+    "qty_on_hand_units": 302,
+    "qty_reserved_units": 5,
+    "qty_available_units": 270,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP014",
+    "product_name": "Bánh gạo vị ngọt 150g",
+    "qty_on_hand_units": 10,
+    "qty_reserved_units": 3,
+    "qty_available_units": 8,
+    "stock_status": "Sắp hết",
+    "restock_eta_date": "2026-07-31",
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP015",
+    "product_name": "Bánh trứng cuộn 200g",
+    "qty_on_hand_units": 15,
+    "qty_reserved_units": 10,
+    "qty_available_units": 8,
+    "stock_status": "Sắp hết",
+    "restock_eta_date": "2026-07-29",
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP016",
+    "product_name": "Kẹo dẻo trái cây 100g",
+    "qty_on_hand_units": 623,
+    "qty_reserved_units": 0,
+    "qty_available_units": 622,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP017",
+    "product_name": "Snack khoai tây vị BBQ 60g",
+    "qty_on_hand_units": 319,
+    "qty_reserved_units": 36,
+    "qty_available_units": 300,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP018",
+    "product_name": "Bánh trung thu thập cẩm 200g",
+    "qty_on_hand_units": 679,
+    "qty_reserved_units": 4,
+    "qty_available_units": 643,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP019",
+    "product_name": "Mì ăn liền tôm chua cay",
+    "qty_on_hand_units": 3,
+    "qty_reserved_units": 0,
+    "qty_available_units": 3,
+    "stock_status": "Sắp hết",
+    "restock_eta_date": "2026-07-30",
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP020",
+    "product_name": "Mì ăn liền bò hầm",
+    "qty_on_hand_units": 225,
+    "qty_reserved_units": 1,
+    "qty_available_units": 224,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP021",
+    "product_name": "Phở ăn liền bò",
+    "qty_on_hand_units": 23,
+    "qty_reserved_units": 20,
+    "qty_available_units": 22,
+    "stock_status": "Sắp hết",
+    "restock_eta_date": "2026-07-31",
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP022",
+    "product_name": "Cháo ăn liền thịt bằm",
+    "qty_on_hand_units": 147,
+    "qty_reserved_units": 37,
+    "qty_available_units": 124,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP023",
+    "product_name": "Bún gạo khô 500g",
+    "qty_on_hand_units": 626,
+    "qty_reserved_units": 4,
+    "qty_available_units": 602,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP024",
+    "product_name": "Gạo thơm ST25 túi 5kg",
+    "qty_on_hand_units": 9,
+    "qty_reserved_units": 1,
+    "qty_available_units": 9,
+    "stock_status": "Sắp hết",
+    "restock_eta_date": "2026-07-26",
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP025",
+    "product_name": "Dầu ăn thực vật 1L",
+    "qty_on_hand_units": 726,
+    "qty_reserved_units": 40,
+    "qty_available_units": 708,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP026",
+    "product_name": "Nước mắm cốt 500ml",
+    "qty_on_hand_units": 0,
+    "qty_reserved_units": 0,
+    "qty_available_units": 0,
+    "stock_status": "Hết hàng",
+    "restock_eta_date": "2026-07-28",
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP027",
+    "product_name": "Nước tương đậu nành 500ml",
+    "qty_on_hand_units": 347,
+    "qty_reserved_units": 1,
+    "qty_available_units": 325,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP028",
+    "product_name": "Tương ớt 250g",
+    "qty_on_hand_units": 129,
+    "qty_reserved_units": 23,
+    "qty_available_units": 109,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP029",
+    "product_name": "Hạt nêm 900g",
+    "qty_on_hand_units": 713,
+    "qty_reserved_units": 1,
+    "qty_available_units": 687,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP030",
+    "product_name": "Muối i-ốt 500g",
+    "qty_on_hand_units": 871,
+    "qty_reserved_units": 6,
+    "qty_available_units": 849,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP031",
+    "product_name": "Đường tinh luyện 1kg",
+    "qty_on_hand_units": 630,
+    "qty_reserved_units": 36,
+    "qty_available_units": 617,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP032",
+    "product_name": "Bột ngọt 400g",
+    "qty_on_hand_units": 374,
+    "qty_reserved_units": 10,
+    "qty_available_units": 347,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP033",
+    "product_name": "Cà phê hòa tan 3in1 hộp 20 gói",
+    "qty_on_hand_units": 375,
+    "qty_reserved_units": 3,
+    "qty_available_units": 375,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP034",
+    "product_name": "Cà phê rang xay 500g",
+    "qty_on_hand_units": 583,
+    "qty_reserved_units": 11,
+    "qty_available_units": 552,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP035",
+    "product_name": "Trà túi lọc hương nhài 25 gói",
+    "qty_on_hand_units": 607,
+    "qty_reserved_units": 16,
+    "qty_available_units": 571,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP036",
+    "product_name": "Trà atiso túi lọc 20 gói",
+    "qty_on_hand_units": 299,
+    "qty_reserved_units": 14,
+    "qty_available_units": 268,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP037",
+    "product_name": "Nước rửa chén chanh 750ml",
+    "qty_on_hand_units": 23,
+    "qty_reserved_units": 2,
+    "qty_available_units": 8,
+    "stock_status": "Sắp hết",
+    "restock_eta_date": "2026-07-31",
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP038",
+    "product_name": "Nước lau sàn hương lavender 1L",
+    "qty_on_hand_units": 444,
+    "qty_reserved_units": 6,
+    "qty_available_units": 419,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP039",
+    "product_name": "Bột giặt 3kg",
+    "qty_on_hand_units": 843,
+    "qty_reserved_units": 5,
+    "qty_available_units": 816,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP040",
+    "product_name": "Nước xả vải 1.8L",
+    "qty_on_hand_units": 390,
+    "qty_reserved_units": 16,
+    "qty_available_units": 363,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP041",
+    "product_name": "Dầu gội bồ kết 650ml",
+    "qty_on_hand_units": 725,
+    "qty_reserved_units": 14,
+    "qty_available_units": 696,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  },
+  {
+    "product_id": "SP042",
+    "product_name": "Sữa tắm hương hoa 900ml",
+    "qty_on_hand_units": 852,
+    "qty_reserved_units": 38,
+    "qty_available_units": 850,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP043",
+    "product_name": "Kem đánh răng bạc hà 180g",
+    "qty_on_hand_units": 614,
+    "qty_reserved_units": 9,
+    "qty_available_units": 586,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP044",
+    "product_name": "Giấy vệ sinh 10 cuộn",
+    "qty_on_hand_units": 17,
+    "qty_reserved_units": 8,
+    "qty_available_units": 10,
+    "stock_status": "Sắp hết",
+    "restock_eta_date": "2026-07-27",
+    "warehouse": "Kho Hưng Yên"
+  },
+  {
+    "product_id": "SP045",
+    "product_name": "Khăn giấy rút 180 tờ",
+    "qty_on_hand_units": 793,
+    "qty_reserved_units": 15,
+    "qty_available_units": 761,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
+    "warehouse": "Kho Hà Nội"
+  }
+]

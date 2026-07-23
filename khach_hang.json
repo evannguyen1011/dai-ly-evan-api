@@ -1,0 +1,3388 @@
+[
+  {
+    "customer_id": "KH001",
+    "business_name": "Tạp hóa Minh Châu",
+    "contact_name": "Nguyễn Thị Châu",
+    "address": "Hà Đông, Hà Nội",
+    "customer_type": "Đại lý cấp 1",
+    "tier": "Bạc",
+    "tier_discount_pct": 5,
+    "credit_limit_vnd": 130000000,
+    "current_debt_vnd": 122168538,
+    "credit_available_vnd": 7831462,
+    "payment_terms_days": 30,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 14,
+    "avg_order_value_vnd": 39000000,
+    "last_order_date": "2026-07-04",
+    "recent_orders": [
+      {
+        "order_id": "DH2610",
+        "order_date": "2026-04-25",
+        "items": [
+          {
+            "product_id": "SP027",
+            "product_name": "Nước tương đậu nành 500ml",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP003",
+            "product_name": "Nước suối tinh khiết 500ml",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP043",
+            "product_name": "Kem đánh răng bạc hà 180g",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 26500000
+      },
+      {
+        "order_id": "DH2611",
+        "order_date": "2026-07-03",
+        "items": [
+          {
+            "product_id": "SP023",
+            "product_name": "Bún gạo khô 500g",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP039",
+            "product_name": "Bột giặt 3kg",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP032",
+            "product_name": "Bột ngọt 400g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP038",
+            "product_name": "Nước lau sàn hương lavender 1L",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 47500000
+      },
+      {
+        "order_id": "DH2612",
+        "order_date": "2026-06-21",
+        "items": [
+          {
+            "product_id": "SP004",
+            "product_name": "Nước suối tinh khiết 1.5L",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP045",
+            "product_name": "Khăn giấy rút 180 tờ",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 57500000
+      },
+      {
+        "order_id": "DH2613",
+        "order_date": "2026-06-01",
+        "items": [
+          {
+            "product_id": "SP019",
+            "product_name": "Mì ăn liền tôm chua cay",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP025",
+            "product_name": "Dầu ăn thực vật 1L",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP043",
+            "product_name": "Kem đánh răng bạc hà 180g",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 44000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH002",
+    "business_name": "Đại lý Hùng Phát",
+    "contact_name": "Trần Văn Hùng",
+    "address": "Thanh Xuân, Hà Nội",
+    "customer_type": "Chuỗi siêu thị mini",
+    "tier": "Vàng",
+    "tier_discount_pct": 8,
+    "credit_limit_vnd": 60000000,
+    "current_debt_vnd": 22935811,
+    "credit_available_vnd": 37064189,
+    "payment_terms_days": 30,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 12,
+    "avg_order_value_vnd": 15000000,
+    "last_order_date": "2026-07-05",
+    "recent_orders": [
+      {
+        "order_id": "DH2620",
+        "order_date": "2026-07-13",
+        "items": [
+          {
+            "product_id": "SP032",
+            "product_name": "Bột ngọt 400g",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP006",
+            "product_name": "Trà ô long 450ml",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP011",
+            "product_name": "Sữa chua uống men sống 65ml",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 57000000
+      },
+      {
+        "order_id": "DH2621",
+        "order_date": "2026-06-22",
+        "items": [
+          {
+            "product_id": "SP036",
+            "product_name": "Trà atiso túi lọc 20 gói",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP018",
+            "product_name": "Bánh trung thu thập cẩm 200g",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP027",
+            "product_name": "Nước tương đậu nành 500ml",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 10000000
+      },
+      {
+        "order_id": "DH2622",
+        "order_date": "2026-05-01",
+        "items": [
+          {
+            "product_id": "SP010",
+            "product_name": "Sữa đặc có đường 380g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP015",
+            "product_name": "Bánh trứng cuộn 200g",
+            "qty_units": 80
+          }
+        ],
+        "total_vnd": 16500000
+      },
+      {
+        "order_id": "DH2623",
+        "order_date": "2026-07-18",
+        "items": [
+          {
+            "product_id": "SP019",
+            "product_name": "Mì ăn liền tôm chua cay",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP001",
+            "product_name": "Nước ngọt có ga Cola 330ml",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP010",
+            "product_name": "Sữa đặc có đường 380g",
+            "qty_units": 80
+          }
+        ],
+        "total_vnd": 25000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH003",
+    "business_name": "Siêu thị mini GreenMart",
+    "contact_name": "Lê Thu Trang",
+    "address": "Cầu Giấy, Hà Nội",
+    "customer_type": "Bếp ăn công nghiệp",
+    "tier": "Mới",
+    "tier_discount_pct": 0,
+    "credit_limit_vnd": 0,
+    "current_debt_vnd": 0,
+    "credit_available_vnd": 0,
+    "payment_terms_days": 0,
+    "payment_behavior": "Chưa có lịch sử",
+    "order_count_last_6mo": 0,
+    "avg_order_value_vnd": 5500000,
+    "last_order_date": null,
+    "recent_orders": []
+  },
+  {
+    "customer_id": "KH004",
+    "business_name": "Tạp hóa Bảy Sáu",
+    "contact_name": "Phạm Văn Bảy",
+    "address": "Hoài Đức, Hà Nội",
+    "customer_type": "Bếp ăn công nghiệp",
+    "tier": "Bạc",
+    "tier_discount_pct": 5,
+    "credit_limit_vnd": 140000000,
+    "current_debt_vnd": 130684375,
+    "credit_available_vnd": 9315625,
+    "payment_terms_days": 30,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 18,
+    "avg_order_value_vnd": 27000000,
+    "last_order_date": "2026-07-11",
+    "recent_orders": [
+      {
+        "order_id": "DH2640",
+        "order_date": "2026-05-15",
+        "items": [
+          {
+            "product_id": "SP026",
+            "product_name": "Nước mắm cốt 500ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP004",
+            "product_name": "Nước suối tinh khiết 1.5L",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP013",
+            "product_name": "Bánh quy bơ hộp thiếc 340g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP005",
+            "product_name": "Trà xanh không độ 455ml",
+            "qty_units": 80
+          }
+        ],
+        "total_vnd": 8000000
+      },
+      {
+        "order_id": "DH2641",
+        "order_date": "2026-05-18",
+        "items": [
+          {
+            "product_id": "SP001",
+            "product_name": "Nước ngọt có ga Cola 330ml",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP037",
+            "product_name": "Nước rửa chén chanh 750ml",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 44000000
+      },
+      {
+        "order_id": "DH2642",
+        "order_date": "2026-07-05",
+        "items": [
+          {
+            "product_id": "SP005",
+            "product_name": "Trà xanh không độ 455ml",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP014",
+            "product_name": "Bánh gạo vị ngọt 150g",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 27000000
+      },
+      {
+        "order_id": "DH2643",
+        "order_date": "2026-07-16",
+        "items": [
+          {
+            "product_id": "SP024",
+            "product_name": "Gạo thơm ST25 túi 5kg",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP031",
+            "product_name": "Đường tinh luyện 1kg",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP008",
+            "product_name": "Nước ép cam ép 1L",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP032",
+            "product_name": "Bột ngọt 400g",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 11500000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH005",
+    "business_name": "Đại lý Thành Đạt",
+    "contact_name": "Ngô Thành Đạt",
+    "address": "Từ Sơn, Bắc Ninh",
+    "customer_type": "Bếp ăn công nghiệp",
+    "tier": "Đồng",
+    "tier_discount_pct": 2,
+    "credit_limit_vnd": 90000000,
+    "current_debt_vnd": 36727515,
+    "credit_available_vnd": 53272485,
+    "payment_terms_days": 15,
+    "payment_behavior": "Thường trễ 20-35 ngày",
+    "order_count_last_6mo": 15,
+    "avg_order_value_vnd": 13000000,
+    "last_order_date": "2026-07-12",
+    "recent_orders": [
+      {
+        "order_id": "DH2650",
+        "order_date": "2026-04-25",
+        "items": [
+          {
+            "product_id": "SP045",
+            "product_name": "Khăn giấy rút 180 tờ",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP035",
+            "product_name": "Trà túi lọc hương nhài 25 gói",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 46000000
+      },
+      {
+        "order_id": "DH2651",
+        "order_date": "2026-06-06",
+        "items": [
+          {
+            "product_id": "SP045",
+            "product_name": "Khăn giấy rút 180 tờ",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP017",
+            "product_name": "Snack khoai tây vị BBQ 60g",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 39000000
+      },
+      {
+        "order_id": "DH2652",
+        "order_date": "2026-05-26",
+        "items": [
+          {
+            "product_id": "SP033",
+            "product_name": "Cà phê hòa tan 3in1 hộp 20 gói",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP022",
+            "product_name": "Cháo ăn liền thịt bằm",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP041",
+            "product_name": "Dầu gội bồ kết 650ml",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP015",
+            "product_name": "Bánh trứng cuộn 200g",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 17500000
+      },
+      {
+        "order_id": "DH2653",
+        "order_date": "2026-07-09",
+        "items": [
+          {
+            "product_id": "SP032",
+            "product_name": "Bột ngọt 400g",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP023",
+            "product_name": "Bún gạo khô 500g",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP002",
+            "product_name": "Nước ngọt có ga Cam 330ml",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP018",
+            "product_name": "Bánh trung thu thập cẩm 200g",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 33500000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH006",
+    "business_name": "Nhà hàng Sen Vàng",
+    "contact_name": "Đỗ Minh Sen",
+    "address": "Ba Đình, Hà Nội",
+    "customer_type": "Cửa hàng tạp hóa",
+    "tier": "Vàng",
+    "tier_discount_pct": 8,
+    "credit_limit_vnd": 110000000,
+    "current_debt_vnd": 107922143,
+    "credit_available_vnd": 2077857,
+    "payment_terms_days": 30,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 15,
+    "avg_order_value_vnd": 18000000,
+    "last_order_date": "2026-07-04",
+    "recent_orders": [
+      {
+        "order_id": "DH2660",
+        "order_date": "2026-04-16",
+        "items": [
+          {
+            "product_id": "SP014",
+            "product_name": "Bánh gạo vị ngọt 150g",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP031",
+            "product_name": "Đường tinh luyện 1kg",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP040",
+            "product_name": "Nước xả vải 1.8L",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 10000000
+      },
+      {
+        "order_id": "DH2661",
+        "order_date": "2026-05-14",
+        "items": [
+          {
+            "product_id": "SP008",
+            "product_name": "Nước ép cam ép 1L",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP025",
+            "product_name": "Dầu ăn thực vật 1L",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP013",
+            "product_name": "Bánh quy bơ hộp thiếc 340g",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP031",
+            "product_name": "Đường tinh luyện 1kg",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 30000000
+      },
+      {
+        "order_id": "DH2662",
+        "order_date": "2026-05-05",
+        "items": [
+          {
+            "product_id": "SP026",
+            "product_name": "Nước mắm cốt 500ml",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP006",
+            "product_name": "Trà ô long 450ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP011",
+            "product_name": "Sữa chua uống men sống 65ml",
+            "qty_units": 80
+          }
+        ],
+        "total_vnd": 34500000
+      },
+      {
+        "order_id": "DH2663",
+        "order_date": "2026-06-05",
+        "items": [
+          {
+            "product_id": "SP010",
+            "product_name": "Sữa đặc có đường 380g",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP040",
+            "product_name": "Nước xả vải 1.8L",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP039",
+            "product_name": "Bột giặt 3kg",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP031",
+            "product_name": "Đường tinh luyện 1kg",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 5500000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH007",
+    "business_name": "Chuỗi Vmart Express",
+    "contact_name": "Vũ Hồng Nhung",
+    "address": "Long Biên, Hà Nội",
+    "customer_type": "Nhà hàng - Quán ăn",
+    "tier": "Đồng",
+    "tier_discount_pct": 2,
+    "credit_limit_vnd": 70000000,
+    "current_debt_vnd": 29523890,
+    "credit_available_vnd": 40476110,
+    "payment_terms_days": 15,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 10,
+    "avg_order_value_vnd": 19000000,
+    "last_order_date": "2026-07-18",
+    "recent_orders": [
+      {
+        "order_id": "DH2670",
+        "order_date": "2026-06-17",
+        "items": [
+          {
+            "product_id": "SP017",
+            "product_name": "Snack khoai tây vị BBQ 60g",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP014",
+            "product_name": "Bánh gạo vị ngọt 150g",
+            "qty_units": 80
+          }
+        ],
+        "total_vnd": 25500000
+      },
+      {
+        "order_id": "DH2671",
+        "order_date": "2026-04-24",
+        "items": [
+          {
+            "product_id": "SP035",
+            "product_name": "Trà túi lọc hương nhài 25 gói",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP027",
+            "product_name": "Nước tương đậu nành 500ml",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP009",
+            "product_name": "Sữa tươi tiệt trùng 180ml",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 42000000
+      },
+      {
+        "order_id": "DH2672",
+        "order_date": "2026-05-17",
+        "items": [
+          {
+            "product_id": "SP027",
+            "product_name": "Nước tương đậu nành 500ml",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP033",
+            "product_name": "Cà phê hòa tan 3in1 hộp 20 gói",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP009",
+            "product_name": "Sữa tươi tiệt trùng 180ml",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP035",
+            "product_name": "Trà túi lọc hương nhài 25 gói",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 43500000
+      },
+      {
+        "order_id": "DH2673",
+        "order_date": "2026-05-16",
+        "items": [
+          {
+            "product_id": "SP010",
+            "product_name": "Sữa đặc có đường 380g",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP012",
+            "product_name": "Sữa bột nguyên kem 400g",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 12500000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH008",
+    "business_name": "Tạp hóa Cô Ba",
+    "contact_name": "Nguyễn Thị Ba",
+    "address": "Đông Anh, Hà Nội",
+    "customer_type": "Đại lý cấp 1",
+    "tier": "Vàng",
+    "tier_discount_pct": 8,
+    "credit_limit_vnd": 370000000,
+    "current_debt_vnd": 109056058,
+    "credit_available_vnd": 260943942,
+    "payment_terms_days": 30,
+    "payment_behavior": "Luôn đúng hạn",
+    "order_count_last_6mo": 44,
+    "avg_order_value_vnd": 68000000,
+    "last_order_date": "2026-07-03",
+    "recent_orders": [
+      {
+        "order_id": "DH2680",
+        "order_date": "2026-05-07",
+        "items": [
+          {
+            "product_id": "SP036",
+            "product_name": "Trà atiso túi lọc 20 gói",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP004",
+            "product_name": "Nước suối tinh khiết 1.5L",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 54000000
+      },
+      {
+        "order_id": "DH2681",
+        "order_date": "2026-04-25",
+        "items": [
+          {
+            "product_id": "SP033",
+            "product_name": "Cà phê hòa tan 3in1 hộp 20 gói",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP029",
+            "product_name": "Hạt nêm 900g",
+            "qty_units": 50
+          }
+        ],
+        "total_vnd": 25500000
+      },
+      {
+        "order_id": "DH2682",
+        "order_date": "2026-06-15",
+        "items": [
+          {
+            "product_id": "SP033",
+            "product_name": "Cà phê hòa tan 3in1 hộp 20 gói",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP039",
+            "product_name": "Bột giặt 3kg",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP013",
+            "product_name": "Bánh quy bơ hộp thiếc 340g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP045",
+            "product_name": "Khăn giấy rút 180 tờ",
+            "qty_units": 80
+          }
+        ],
+        "total_vnd": 20500000
+      },
+      {
+        "order_id": "DH2683",
+        "order_date": "2026-07-05",
+        "items": [
+          {
+            "product_id": "SP034",
+            "product_name": "Cà phê rang xay 500g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP017",
+            "product_name": "Snack khoai tây vị BBQ 60g",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP036",
+            "product_name": "Trà atiso túi lọc 20 gói",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP013",
+            "product_name": "Bánh quy bơ hộp thiếc 340g",
+            "qty_units": 50
+          }
+        ],
+        "total_vnd": 25000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH009",
+    "business_name": "Đại lý Kim Long",
+    "contact_name": "Bùi Kim Long",
+    "address": "Hải Dương",
+    "customer_type": "Bếp ăn công nghiệp",
+    "tier": "Vàng",
+    "tier_discount_pct": 8,
+    "credit_limit_vnd": 70000000,
+    "current_debt_vnd": 24588372,
+    "credit_available_vnd": 45411628,
+    "payment_terms_days": 15,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 19,
+    "avg_order_value_vnd": 8000000,
+    "last_order_date": "2026-07-11",
+    "recent_orders": [
+      {
+        "order_id": "DH2690",
+        "order_date": "2026-06-05",
+        "items": [
+          {
+            "product_id": "SP042",
+            "product_name": "Sữa tắm hương hoa 900ml",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP043",
+            "product_name": "Kem đánh răng bạc hà 180g",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 34500000
+      },
+      {
+        "order_id": "DH2691",
+        "order_date": "2026-07-06",
+        "items": [
+          {
+            "product_id": "SP007",
+            "product_name": "Nước tăng lực Number 1",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP026",
+            "product_name": "Nước mắm cốt 500ml",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 15000000
+      },
+      {
+        "order_id": "DH2692",
+        "order_date": "2026-07-07",
+        "items": [
+          {
+            "product_id": "SP028",
+            "product_name": "Tương ớt 250g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP033",
+            "product_name": "Cà phê hòa tan 3in1 hộp 20 gói",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP026",
+            "product_name": "Nước mắm cốt 500ml",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP022",
+            "product_name": "Cháo ăn liền thịt bằm",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 28000000
+      },
+      {
+        "order_id": "DH2693",
+        "order_date": "2026-07-15",
+        "items": [
+          {
+            "product_id": "SP022",
+            "product_name": "Cháo ăn liền thịt bằm",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP036",
+            "product_name": "Trà atiso túi lọc 20 gói",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 29500000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH010",
+    "business_name": "Bếp ăn KCN Quang Minh",
+    "contact_name": "Hoàng Văn Quang",
+    "address": "Mê Linh, Hà Nội",
+    "customer_type": "Nhà hàng - Quán ăn",
+    "tier": "Đồng",
+    "tier_discount_pct": 2,
+    "credit_limit_vnd": 50000000,
+    "current_debt_vnd": 37238956,
+    "credit_available_vnd": 12761044,
+    "payment_terms_days": 15,
+    "payment_behavior": "Thường trễ 10-20 ngày",
+    "order_count_last_6mo": 16,
+    "avg_order_value_vnd": 10000000,
+    "last_order_date": "2026-07-09",
+    "recent_orders": [
+      {
+        "order_id": "DH2700",
+        "order_date": "2026-06-02",
+        "items": [
+          {
+            "product_id": "SP006",
+            "product_name": "Trà ô long 450ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP017",
+            "product_name": "Snack khoai tây vị BBQ 60g",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 53000000
+      },
+      {
+        "order_id": "DH2701",
+        "order_date": "2026-06-13",
+        "items": [
+          {
+            "product_id": "SP028",
+            "product_name": "Tương ớt 250g",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP044",
+            "product_name": "Giấy vệ sinh 10 cuộn",
+            "qty_units": 80
+          }
+        ],
+        "total_vnd": 37500000
+      },
+      {
+        "order_id": "DH2702",
+        "order_date": "2026-06-02",
+        "items": [
+          {
+            "product_id": "SP032",
+            "product_name": "Bột ngọt 400g",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP045",
+            "product_name": "Khăn giấy rút 180 tờ",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP021",
+            "product_name": "Phở ăn liền bò",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP006",
+            "product_name": "Trà ô long 450ml",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 22000000
+      },
+      {
+        "order_id": "DH2703",
+        "order_date": "2026-06-03",
+        "items": [
+          {
+            "product_id": "SP041",
+            "product_name": "Dầu gội bồ kết 650ml",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP006",
+            "product_name": "Trà ô long 450ml",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 9000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH011",
+    "business_name": "Tạp hóa Hòa Bình",
+    "contact_name": "Lý Thị Hòa",
+    "address": "Hà Đông, Hà Nội",
+    "customer_type": "Đại lý cấp 1",
+    "tier": "Mới",
+    "tier_discount_pct": 0,
+    "credit_limit_vnd": 0,
+    "current_debt_vnd": 0,
+    "credit_available_vnd": 0,
+    "payment_terms_days": 0,
+    "payment_behavior": "Chưa có lịch sử",
+    "order_count_last_6mo": 1,
+    "avg_order_value_vnd": 2000000,
+    "last_order_date": "2026-07-06",
+    "recent_orders": [
+      {
+        "order_id": "DH2710",
+        "order_date": "2026-05-02",
+        "items": [
+          {
+            "product_id": "SP036",
+            "product_name": "Trà atiso túi lọc 20 gói",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP027",
+            "product_name": "Nước tương đậu nành 500ml",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP018",
+            "product_name": "Bánh trung thu thập cẩm 200g",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 12000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH012",
+    "business_name": "Đại lý Tân Tiến",
+    "contact_name": "Đặng Tân Tiến",
+    "address": "Hưng Yên",
+    "customer_type": "Cửa hàng tạp hóa",
+    "tier": "Vàng",
+    "tier_discount_pct": 8,
+    "credit_limit_vnd": 120000000,
+    "current_debt_vnd": 120207269,
+    "credit_available_vnd": 0,
+    "payment_terms_days": 30,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 14,
+    "avg_order_value_vnd": 21000000,
+    "last_order_date": "2026-07-05",
+    "recent_orders": [
+      {
+        "order_id": "DH2720",
+        "order_date": "2026-05-09",
+        "items": [
+          {
+            "product_id": "SP014",
+            "product_name": "Bánh gạo vị ngọt 150g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP019",
+            "product_name": "Mì ăn liền tôm chua cay",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP029",
+            "product_name": "Hạt nêm 900g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP033",
+            "product_name": "Cà phê hòa tan 3in1 hộp 20 gói",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 5500000
+      },
+      {
+        "order_id": "DH2721",
+        "order_date": "2026-05-17",
+        "items": [
+          {
+            "product_id": "SP033",
+            "product_name": "Cà phê hòa tan 3in1 hộp 20 gói",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP036",
+            "product_name": "Trà atiso túi lọc 20 gói",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 33500000
+      },
+      {
+        "order_id": "DH2722",
+        "order_date": "2026-07-22",
+        "items": [
+          {
+            "product_id": "SP043",
+            "product_name": "Kem đánh răng bạc hà 180g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP042",
+            "product_name": "Sữa tắm hương hoa 900ml",
+            "qty_units": 80
+          }
+        ],
+        "total_vnd": 58000000
+      },
+      {
+        "order_id": "DH2723",
+        "order_date": "2026-05-08",
+        "items": [
+          {
+            "product_id": "SP033",
+            "product_name": "Cà phê hòa tan 3in1 hộp 20 gói",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP020",
+            "product_name": "Mì ăn liền bò hầm",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP045",
+            "product_name": "Khăn giấy rút 180 tờ",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 51500000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH013",
+    "business_name": "Siêu thị mini FreshGo",
+    "contact_name": "Trịnh Thu Hà",
+    "address": "Nam Từ Liêm, Hà Nội",
+    "customer_type": "Chuỗi siêu thị mini",
+    "tier": "Bạc",
+    "tier_discount_pct": 5,
+    "credit_limit_vnd": 40000000,
+    "current_debt_vnd": 3273010,
+    "credit_available_vnd": 36726990,
+    "payment_terms_days": 30,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 7,
+    "avg_order_value_vnd": 10000000,
+    "last_order_date": "2026-07-09",
+    "recent_orders": [
+      {
+        "order_id": "DH2730",
+        "order_date": "2026-07-28",
+        "items": [
+          {
+            "product_id": "SP011",
+            "product_name": "Sữa chua uống men sống 65ml",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP004",
+            "product_name": "Nước suối tinh khiết 1.5L",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP006",
+            "product_name": "Trà ô long 450ml",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 43000000
+      },
+      {
+        "order_id": "DH2731",
+        "order_date": "2026-04-15",
+        "items": [
+          {
+            "product_id": "SP045",
+            "product_name": "Khăn giấy rút 180 tờ",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP019",
+            "product_name": "Mì ăn liền tôm chua cay",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 22000000
+      },
+      {
+        "order_id": "DH2732",
+        "order_date": "2026-06-18",
+        "items": [
+          {
+            "product_id": "SP001",
+            "product_name": "Nước ngọt có ga Cola 330ml",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP017",
+            "product_name": "Snack khoai tây vị BBQ 60g",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP024",
+            "product_name": "Gạo thơm ST25 túi 5kg",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 24500000
+      },
+      {
+        "order_id": "DH2733",
+        "order_date": "2026-04-11",
+        "items": [
+          {
+            "product_id": "SP023",
+            "product_name": "Bún gạo khô 500g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP012",
+            "product_name": "Sữa bột nguyên kem 400g",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 35000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH014",
+    "business_name": "Quán ăn Bà Tư",
+    "contact_name": "Nguyễn Thị Tư",
+    "address": "Hoàng Mai, Hà Nội",
+    "customer_type": "Nhà hàng - Quán ăn",
+    "tier": "Bạc",
+    "tier_discount_pct": 5,
+    "credit_limit_vnd": 110000000,
+    "current_debt_vnd": 44190595,
+    "credit_available_vnd": 65809405,
+    "payment_terms_days": 15,
+    "payment_behavior": "Thường trễ 20-35 ngày",
+    "order_count_last_6mo": 11,
+    "avg_order_value_vnd": 24000000,
+    "last_order_date": "2026-07-08",
+    "recent_orders": [
+      {
+        "order_id": "DH2740",
+        "order_date": "2026-04-13",
+        "items": [
+          {
+            "product_id": "SP010",
+            "product_name": "Sữa đặc có đường 380g",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP026",
+            "product_name": "Nước mắm cốt 500ml",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 24000000
+      },
+      {
+        "order_id": "DH2741",
+        "order_date": "2026-05-22",
+        "items": [
+          {
+            "product_id": "SP015",
+            "product_name": "Bánh trứng cuộn 200g",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP006",
+            "product_name": "Trà ô long 450ml",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP038",
+            "product_name": "Nước lau sàn hương lavender 1L",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP034",
+            "product_name": "Cà phê rang xay 500g",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 51000000
+      },
+      {
+        "order_id": "DH2742",
+        "order_date": "2026-05-02",
+        "items": [
+          {
+            "product_id": "SP010",
+            "product_name": "Sữa đặc có đường 380g",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP019",
+            "product_name": "Mì ăn liền tôm chua cay",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP040",
+            "product_name": "Nước xả vải 1.8L",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 32000000
+      },
+      {
+        "order_id": "DH2743",
+        "order_date": "2026-04-27",
+        "items": [
+          {
+            "product_id": "SP045",
+            "product_name": "Khăn giấy rút 180 tờ",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP033",
+            "product_name": "Cà phê hòa tan 3in1 hộp 20 gói",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP009",
+            "product_name": "Sữa tươi tiệt trùng 180ml",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP034",
+            "product_name": "Cà phê rang xay 500g",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 49000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH015",
+    "business_name": "Đại lý Phúc Thịnh",
+    "contact_name": "Mai Phúc Thịnh",
+    "address": "Bắc Giang",
+    "customer_type": "Đại lý cấp 1",
+    "tier": "Mới",
+    "tier_discount_pct": 0,
+    "credit_limit_vnd": 0,
+    "current_debt_vnd": 0,
+    "credit_available_vnd": 0,
+    "payment_terms_days": 0,
+    "payment_behavior": "Chưa có lịch sử",
+    "order_count_last_6mo": 0,
+    "avg_order_value_vnd": 2000000,
+    "last_order_date": null,
+    "recent_orders": []
+  },
+  {
+    "customer_id": "KH016",
+    "business_name": "Tạp hóa An Khang",
+    "contact_name": "Trần An Khang",
+    "address": "Gia Lâm, Hà Nội",
+    "customer_type": "Đại lý cấp 2",
+    "tier": "Đồng",
+    "tier_discount_pct": 2,
+    "credit_limit_vnd": 100000000,
+    "current_debt_vnd": 42611953,
+    "credit_available_vnd": 57388047,
+    "payment_terms_days": 15,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 17,
+    "avg_order_value_vnd": 9000000,
+    "last_order_date": "2026-07-10",
+    "recent_orders": [
+      {
+        "order_id": "DH2760",
+        "order_date": "2026-05-16",
+        "items": [
+          {
+            "product_id": "SP002",
+            "product_name": "Nước ngọt có ga Cam 330ml",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP041",
+            "product_name": "Dầu gội bồ kết 650ml",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP035",
+            "product_name": "Trà túi lọc hương nhài 25 gói",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP044",
+            "product_name": "Giấy vệ sinh 10 cuộn",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 52500000
+      },
+      {
+        "order_id": "DH2761",
+        "order_date": "2026-04-24",
+        "items": [
+          {
+            "product_id": "SP035",
+            "product_name": "Trà túi lọc hương nhài 25 gói",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP006",
+            "product_name": "Trà ô long 450ml",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP043",
+            "product_name": "Kem đánh răng bạc hà 180g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP034",
+            "product_name": "Cà phê rang xay 500g",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 59000000
+      },
+      {
+        "order_id": "DH2762",
+        "order_date": "2026-07-16",
+        "items": [
+          {
+            "product_id": "SP016",
+            "product_name": "Kẹo dẻo trái cây 100g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP014",
+            "product_name": "Bánh gạo vị ngọt 150g",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP015",
+            "product_name": "Bánh trứng cuộn 200g",
+            "qty_units": 50
+          }
+        ],
+        "total_vnd": 48500000
+      },
+      {
+        "order_id": "DH2763",
+        "order_date": "2026-05-03",
+        "items": [
+          {
+            "product_id": "SP003",
+            "product_name": "Nước suối tinh khiết 500ml",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP040",
+            "product_name": "Nước xả vải 1.8L",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP041",
+            "product_name": "Dầu gội bồ kết 650ml",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 21000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH017",
+    "business_name": "Chuỗi CityMart",
+    "contact_name": "Phan Quốc Việt",
+    "address": "Đống Đa, Hà Nội",
+    "customer_type": "Nhà hàng - Quán ăn",
+    "tier": "Đồng",
+    "tier_discount_pct": 2,
+    "credit_limit_vnd": 110000000,
+    "current_debt_vnd": 8502720,
+    "credit_available_vnd": 101497280,
+    "payment_terms_days": 30,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 10,
+    "avg_order_value_vnd": 6000000,
+    "last_order_date": "2026-07-12",
+    "recent_orders": [
+      {
+        "order_id": "DH2770",
+        "order_date": "2026-07-10",
+        "items": [
+          {
+            "product_id": "SP007",
+            "product_name": "Nước tăng lực Number 1",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP045",
+            "product_name": "Khăn giấy rút 180 tờ",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP014",
+            "product_name": "Bánh gạo vị ngọt 150g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP044",
+            "product_name": "Giấy vệ sinh 10 cuộn",
+            "qty_units": 50
+          }
+        ],
+        "total_vnd": 34500000
+      },
+      {
+        "order_id": "DH2771",
+        "order_date": "2026-06-03",
+        "items": [
+          {
+            "product_id": "SP008",
+            "product_name": "Nước ép cam ép 1L",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP036",
+            "product_name": "Trà atiso túi lọc 20 gói",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP013",
+            "product_name": "Bánh quy bơ hộp thiếc 340g",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 34000000
+      },
+      {
+        "order_id": "DH2772",
+        "order_date": "2026-06-13",
+        "items": [
+          {
+            "product_id": "SP033",
+            "product_name": "Cà phê hòa tan 3in1 hộp 20 gói",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP029",
+            "product_name": "Hạt nêm 900g",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 9500000
+      },
+      {
+        "order_id": "DH2773",
+        "order_date": "2026-06-05",
+        "items": [
+          {
+            "product_id": "SP006",
+            "product_name": "Trà ô long 450ml",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP010",
+            "product_name": "Sữa đặc có đường 380g",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP034",
+            "product_name": "Cà phê rang xay 500g",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP017",
+            "product_name": "Snack khoai tây vị BBQ 60g",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 12000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH018",
+    "business_name": "Đại lý Đông Á",
+    "contact_name": "Lương Đông Á",
+    "address": "Vĩnh Phúc",
+    "customer_type": "Đại lý cấp 2",
+    "tier": "Bạc",
+    "tier_discount_pct": 5,
+    "credit_limit_vnd": 40000000,
+    "current_debt_vnd": 4863174,
+    "credit_available_vnd": 35136826,
+    "payment_terms_days": 30,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 21,
+    "avg_order_value_vnd": 18000000,
+    "last_order_date": "2026-07-14",
+    "recent_orders": [
+      {
+        "order_id": "DH2780",
+        "order_date": "2026-07-12",
+        "items": [
+          {
+            "product_id": "SP029",
+            "product_name": "Hạt nêm 900g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP026",
+            "product_name": "Nước mắm cốt 500ml",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP020",
+            "product_name": "Mì ăn liền bò hầm",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP010",
+            "product_name": "Sữa đặc có đường 380g",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 5000000
+      },
+      {
+        "order_id": "DH2781",
+        "order_date": "2026-05-23",
+        "items": [
+          {
+            "product_id": "SP022",
+            "product_name": "Cháo ăn liền thịt bằm",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP026",
+            "product_name": "Nước mắm cốt 500ml",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP008",
+            "product_name": "Nước ép cam ép 1L",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 21000000
+      },
+      {
+        "order_id": "DH2782",
+        "order_date": "2026-04-12",
+        "items": [
+          {
+            "product_id": "SP005",
+            "product_name": "Trà xanh không độ 455ml",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP026",
+            "product_name": "Nước mắm cốt 500ml",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP025",
+            "product_name": "Dầu ăn thực vật 1L",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 22500000
+      },
+      {
+        "order_id": "DH2783",
+        "order_date": "2026-06-21",
+        "items": [
+          {
+            "product_id": "SP004",
+            "product_name": "Nước suối tinh khiết 1.5L",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP043",
+            "product_name": "Kem đánh răng bạc hà 180g",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 22000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH019",
+    "business_name": "Tạp hóa Ngọc Lan",
+    "contact_name": "Nguyễn Ngọc Lan",
+    "address": "Thanh Trì, Hà Nội",
+    "customer_type": "Nhà hàng - Quán ăn",
+    "tier": "Bạc",
+    "tier_discount_pct": 5,
+    "credit_limit_vnd": 100000000,
+    "current_debt_vnd": 44791994,
+    "credit_available_vnd": 55208006,
+    "payment_terms_days": 30,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 12,
+    "avg_order_value_vnd": 17000000,
+    "last_order_date": "2026-07-16",
+    "recent_orders": [
+      {
+        "order_id": "DH2790",
+        "order_date": "2026-07-15",
+        "items": [
+          {
+            "product_id": "SP036",
+            "product_name": "Trà atiso túi lọc 20 gói",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP014",
+            "product_name": "Bánh gạo vị ngọt 150g",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP006",
+            "product_name": "Trà ô long 450ml",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP004",
+            "product_name": "Nước suối tinh khiết 1.5L",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 36000000
+      },
+      {
+        "order_id": "DH2791",
+        "order_date": "2026-05-16",
+        "items": [
+          {
+            "product_id": "SP036",
+            "product_name": "Trà atiso túi lọc 20 gói",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP009",
+            "product_name": "Sữa tươi tiệt trùng 180ml",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 23000000
+      },
+      {
+        "order_id": "DH2792",
+        "order_date": "2026-05-10",
+        "items": [
+          {
+            "product_id": "SP017",
+            "product_name": "Snack khoai tây vị BBQ 60g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP042",
+            "product_name": "Sữa tắm hương hoa 900ml",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP026",
+            "product_name": "Nước mắm cốt 500ml",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 30000000
+      },
+      {
+        "order_id": "DH2793",
+        "order_date": "2026-05-03",
+        "items": [
+          {
+            "product_id": "SP011",
+            "product_name": "Sữa chua uống men sống 65ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP042",
+            "product_name": "Sữa tắm hương hoa 900ml",
+            "qty_units": 80
+          }
+        ],
+        "total_vnd": 56500000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH020",
+    "business_name": "Nhà hàng Hải Sản Biển Đông",
+    "contact_name": "Tô Văn Biển",
+    "address": "Tây Hồ, Hà Nội",
+    "customer_type": "Nhà hàng - Quán ăn",
+    "tier": "Vàng",
+    "tier_discount_pct": 8,
+    "credit_limit_vnd": 150000000,
+    "current_debt_vnd": 146334748,
+    "credit_available_vnd": 3665252,
+    "payment_terms_days": 30,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 19,
+    "avg_order_value_vnd": 25000000,
+    "last_order_date": "2026-07-01",
+    "recent_orders": [
+      {
+        "order_id": "DH2800",
+        "order_date": "2026-06-18",
+        "items": [
+          {
+            "product_id": "SP013",
+            "product_name": "Bánh quy bơ hộp thiếc 340g",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP016",
+            "product_name": "Kẹo dẻo trái cây 100g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP006",
+            "product_name": "Trà ô long 450ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP012",
+            "product_name": "Sữa bột nguyên kem 400g",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 21500000
+      },
+      {
+        "order_id": "DH2801",
+        "order_date": "2026-07-24",
+        "items": [
+          {
+            "product_id": "SP013",
+            "product_name": "Bánh quy bơ hộp thiếc 340g",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP002",
+            "product_name": "Nước ngọt có ga Cam 330ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP027",
+            "product_name": "Nước tương đậu nành 500ml",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP025",
+            "product_name": "Dầu ăn thực vật 1L",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 26500000
+      },
+      {
+        "order_id": "DH2802",
+        "order_date": "2026-06-05",
+        "items": [
+          {
+            "product_id": "SP032",
+            "product_name": "Bột ngọt 400g",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP018",
+            "product_name": "Bánh trung thu thập cẩm 200g",
+            "qty_units": 80
+          }
+        ],
+        "total_vnd": 38500000
+      },
+      {
+        "order_id": "DH2803",
+        "order_date": "2026-07-13",
+        "items": [
+          {
+            "product_id": "SP014",
+            "product_name": "Bánh gạo vị ngọt 150g",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP006",
+            "product_name": "Trà ô long 450ml",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP018",
+            "product_name": "Bánh trung thu thập cẩm 200g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP016",
+            "product_name": "Kẹo dẻo trái cây 100g",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 59000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH021",
+    "business_name": "Đại lý Sơn Hà",
+    "contact_name": "Nguyễn Sơn Hà",
+    "address": "Hà Nam",
+    "customer_type": "Đại lý cấp 2",
+    "tier": "Bạc",
+    "tier_discount_pct": 5,
+    "credit_limit_vnd": 90000000,
+    "current_debt_vnd": 51429467,
+    "credit_available_vnd": 38570533,
+    "payment_terms_days": 15,
+    "payment_behavior": "Thường trễ 10-20 ngày",
+    "order_count_last_6mo": 14,
+    "avg_order_value_vnd": 23000000,
+    "last_order_date": "2026-07-20",
+    "recent_orders": [
+      {
+        "order_id": "DH2810",
+        "order_date": "2026-05-26",
+        "items": [
+          {
+            "product_id": "SP034",
+            "product_name": "Cà phê rang xay 500g",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP030",
+            "product_name": "Muối i-ốt 500g",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP029",
+            "product_name": "Hạt nêm 900g",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 14500000
+      },
+      {
+        "order_id": "DH2811",
+        "order_date": "2026-07-03",
+        "items": [
+          {
+            "product_id": "SP044",
+            "product_name": "Giấy vệ sinh 10 cuộn",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP007",
+            "product_name": "Nước tăng lực Number 1",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP045",
+            "product_name": "Khăn giấy rút 180 tờ",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP042",
+            "product_name": "Sữa tắm hương hoa 900ml",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 19500000
+      },
+      {
+        "order_id": "DH2812",
+        "order_date": "2026-06-17",
+        "items": [
+          {
+            "product_id": "SP003",
+            "product_name": "Nước suối tinh khiết 500ml",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP042",
+            "product_name": "Sữa tắm hương hoa 900ml",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP020",
+            "product_name": "Mì ăn liền bò hầm",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP009",
+            "product_name": "Sữa tươi tiệt trùng 180ml",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 11000000
+      },
+      {
+        "order_id": "DH2813",
+        "order_date": "2026-05-13",
+        "items": [
+          {
+            "product_id": "SP020",
+            "product_name": "Mì ăn liền bò hầm",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP034",
+            "product_name": "Cà phê rang xay 500g",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 55500000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH022",
+    "business_name": "Tạp hóa Bình An",
+    "contact_name": "Đỗ Thị Bình",
+    "address": "Sóc Sơn, Hà Nội",
+    "customer_type": "Đại lý cấp 1",
+    "tier": "Kim cương",
+    "tier_discount_pct": 12,
+    "credit_limit_vnd": 340000000,
+    "current_debt_vnd": 79417572,
+    "credit_available_vnd": 260582428,
+    "payment_terms_days": 30,
+    "payment_behavior": "Luôn đúng hạn",
+    "order_count_last_6mo": 45,
+    "avg_order_value_vnd": 54000000,
+    "last_order_date": "2026-07-07",
+    "recent_orders": [
+      {
+        "order_id": "DH2820",
+        "order_date": "2026-05-18",
+        "items": [
+          {
+            "product_id": "SP042",
+            "product_name": "Sữa tắm hương hoa 900ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP016",
+            "product_name": "Kẹo dẻo trái cây 100g",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP031",
+            "product_name": "Đường tinh luyện 1kg",
+            "qty_units": 50
+          }
+        ],
+        "total_vnd": 50000000
+      },
+      {
+        "order_id": "DH2821",
+        "order_date": "2026-07-22",
+        "items": [
+          {
+            "product_id": "SP020",
+            "product_name": "Mì ăn liền bò hầm",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP004",
+            "product_name": "Nước suối tinh khiết 1.5L",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP002",
+            "product_name": "Nước ngọt có ga Cam 330ml",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP013",
+            "product_name": "Bánh quy bơ hộp thiếc 340g",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 19500000
+      },
+      {
+        "order_id": "DH2822",
+        "order_date": "2026-04-23",
+        "items": [
+          {
+            "product_id": "SP028",
+            "product_name": "Tương ớt 250g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP024",
+            "product_name": "Gạo thơm ST25 túi 5kg",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP015",
+            "product_name": "Bánh trứng cuộn 200g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP032",
+            "product_name": "Bột ngọt 400g",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 48500000
+      },
+      {
+        "order_id": "DH2823",
+        "order_date": "2026-04-07",
+        "items": [
+          {
+            "product_id": "SP013",
+            "product_name": "Bánh quy bơ hộp thiếc 340g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP001",
+            "product_name": "Nước ngọt có ga Cola 330ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP019",
+            "product_name": "Mì ăn liền tôm chua cay",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 54000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH023",
+    "business_name": "Siêu thị mini Happy Mart",
+    "contact_name": "Lê Quang Huy",
+    "address": "Hà Đông, Hà Nội",
+    "customer_type": "Đại lý cấp 2",
+    "tier": "Bạc",
+    "tier_discount_pct": 5,
+    "credit_limit_vnd": 80000000,
+    "current_debt_vnd": 7924290,
+    "credit_available_vnd": 72075710,
+    "payment_terms_days": 30,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 13,
+    "avg_order_value_vnd": 14000000,
+    "last_order_date": "2026-07-06",
+    "recent_orders": [
+      {
+        "order_id": "DH2830",
+        "order_date": "2026-04-20",
+        "items": [
+          {
+            "product_id": "SP012",
+            "product_name": "Sữa bột nguyên kem 400g",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP015",
+            "product_name": "Bánh trứng cuộn 200g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP032",
+            "product_name": "Bột ngọt 400g",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP027",
+            "product_name": "Nước tương đậu nành 500ml",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 6500000
+      },
+      {
+        "order_id": "DH2831",
+        "order_date": "2026-07-15",
+        "items": [
+          {
+            "product_id": "SP010",
+            "product_name": "Sữa đặc có đường 380g",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP027",
+            "product_name": "Nước tương đậu nành 500ml",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP004",
+            "product_name": "Nước suối tinh khiết 1.5L",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP012",
+            "product_name": "Sữa bột nguyên kem 400g",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 10000000
+      },
+      {
+        "order_id": "DH2832",
+        "order_date": "2026-05-21",
+        "items": [
+          {
+            "product_id": "SP022",
+            "product_name": "Cháo ăn liền thịt bằm",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP013",
+            "product_name": "Bánh quy bơ hộp thiếc 340g",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 34500000
+      },
+      {
+        "order_id": "DH2833",
+        "order_date": "2026-07-27",
+        "items": [
+          {
+            "product_id": "SP020",
+            "product_name": "Mì ăn liền bò hầm",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP043",
+            "product_name": "Kem đánh răng bạc hà 180g",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 33000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH024",
+    "business_name": "Bếp ăn Trường THPT Chu Văn An",
+    "contact_name": "Nguyễn Thị Mai",
+    "address": "Tây Hồ, Hà Nội",
+    "customer_type": "Đại lý cấp 1",
+    "tier": "Vàng",
+    "tier_discount_pct": 8,
+    "credit_limit_vnd": 50000000,
+    "current_debt_vnd": 10408004,
+    "credit_available_vnd": 39591996,
+    "payment_terms_days": 15,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 8,
+    "avg_order_value_vnd": 14000000,
+    "last_order_date": "2026-07-09",
+    "recent_orders": [
+      {
+        "order_id": "DH2840",
+        "order_date": "2026-07-03",
+        "items": [
+          {
+            "product_id": "SP014",
+            "product_name": "Bánh gạo vị ngọt 150g",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP025",
+            "product_name": "Dầu ăn thực vật 1L",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP023",
+            "product_name": "Bún gạo khô 500g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP020",
+            "product_name": "Mì ăn liền bò hầm",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 28500000
+      },
+      {
+        "order_id": "DH2841",
+        "order_date": "2026-07-01",
+        "items": [
+          {
+            "product_id": "SP029",
+            "product_name": "Hạt nêm 900g",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP013",
+            "product_name": "Bánh quy bơ hộp thiếc 340g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP021",
+            "product_name": "Phở ăn liền bò",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP024",
+            "product_name": "Gạo thơm ST25 túi 5kg",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 54000000
+      },
+      {
+        "order_id": "DH2842",
+        "order_date": "2026-04-26",
+        "items": [
+          {
+            "product_id": "SP003",
+            "product_name": "Nước suối tinh khiết 500ml",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP025",
+            "product_name": "Dầu ăn thực vật 1L",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP030",
+            "product_name": "Muối i-ốt 500g",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 52500000
+      },
+      {
+        "order_id": "DH2843",
+        "order_date": "2026-06-09",
+        "items": [
+          {
+            "product_id": "SP039",
+            "product_name": "Bột giặt 3kg",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP022",
+            "product_name": "Cháo ăn liền thịt bằm",
+            "qty_units": 80
+          }
+        ],
+        "total_vnd": 7500000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH025",
+    "business_name": "Đại lý Vạn Lộc",
+    "contact_name": "Trần Vạn Lộc",
+    "address": "Phú Thọ",
+    "customer_type": "Bếp ăn công nghiệp",
+    "tier": "Vàng",
+    "tier_discount_pct": 8,
+    "credit_limit_vnd": 200000000,
+    "current_debt_vnd": 73294324,
+    "credit_available_vnd": 126705676,
+    "payment_terms_days": 30,
+    "payment_behavior": "Luôn đúng hạn",
+    "order_count_last_6mo": 36,
+    "avg_order_value_vnd": 54000000,
+    "last_order_date": "2026-07-18",
+    "recent_orders": [
+      {
+        "order_id": "DH2850",
+        "order_date": "2026-04-16",
+        "items": [
+          {
+            "product_id": "SP041",
+            "product_name": "Dầu gội bồ kết 650ml",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP005",
+            "product_name": "Trà xanh không độ 455ml",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP002",
+            "product_name": "Nước ngọt có ga Cam 330ml",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP015",
+            "product_name": "Bánh trứng cuộn 200g",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 32500000
+      },
+      {
+        "order_id": "DH2851",
+        "order_date": "2026-04-26",
+        "items": [
+          {
+            "product_id": "SP009",
+            "product_name": "Sữa tươi tiệt trùng 180ml",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP032",
+            "product_name": "Bột ngọt 400g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP012",
+            "product_name": "Sữa bột nguyên kem 400g",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 54000000
+      },
+      {
+        "order_id": "DH2852",
+        "order_date": "2026-06-28",
+        "items": [
+          {
+            "product_id": "SP039",
+            "product_name": "Bột giặt 3kg",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP016",
+            "product_name": "Kẹo dẻo trái cây 100g",
+            "qty_units": 50
+          }
+        ],
+        "total_vnd": 28000000
+      },
+      {
+        "order_id": "DH2853",
+        "order_date": "2026-05-08",
+        "items": [
+          {
+            "product_id": "SP006",
+            "product_name": "Trà ô long 450ml",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP033",
+            "product_name": "Cà phê hòa tan 3in1 hộp 20 gói",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP013",
+            "product_name": "Bánh quy bơ hộp thiếc 340g",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP026",
+            "product_name": "Nước mắm cốt 500ml",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 35500000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH026",
+    "business_name": "Tạp hóa Chị Hạnh",
+    "contact_name": "Nguyễn Thị Hạnh",
+    "address": "Hoàng Mai, Hà Nội",
+    "customer_type": "Nhà hàng - Quán ăn",
+    "tier": "Mới",
+    "tier_discount_pct": 0,
+    "credit_limit_vnd": 0,
+    "current_debt_vnd": 0,
+    "credit_available_vnd": 0,
+    "payment_terms_days": 0,
+    "payment_behavior": "Chưa có lịch sử",
+    "order_count_last_6mo": 1,
+    "avg_order_value_vnd": 3000000,
+    "last_order_date": "2026-07-15",
+    "recent_orders": [
+      {
+        "order_id": "DH2860",
+        "order_date": "2026-04-07",
+        "items": [
+          {
+            "product_id": "SP007",
+            "product_name": "Nước tăng lực Number 1",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP005",
+            "product_name": "Trà xanh không độ 455ml",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP017",
+            "product_name": "Snack khoai tây vị BBQ 60g",
+            "qty_units": 50
+          }
+        ],
+        "total_vnd": 50000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH027",
+    "business_name": "Đại lý Trung Kiên",
+    "contact_name": "Vũ Trung Kiên",
+    "address": "Thái Nguyên",
+    "customer_type": "Đại lý cấp 2",
+    "tier": "Kim cương",
+    "tier_discount_pct": 12,
+    "credit_limit_vnd": 340000000,
+    "current_debt_vnd": 114271379,
+    "credit_available_vnd": 225728621,
+    "payment_terms_days": 30,
+    "payment_behavior": "Luôn đúng hạn",
+    "order_count_last_6mo": 32,
+    "avg_order_value_vnd": 61000000,
+    "last_order_date": "2026-07-08",
+    "recent_orders": [
+      {
+        "order_id": "DH2870",
+        "order_date": "2026-06-10",
+        "items": [
+          {
+            "product_id": "SP016",
+            "product_name": "Kẹo dẻo trái cây 100g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP035",
+            "product_name": "Trà túi lọc hương nhài 25 gói",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP043",
+            "product_name": "Kem đánh răng bạc hà 180g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP008",
+            "product_name": "Nước ép cam ép 1L",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 21000000
+      },
+      {
+        "order_id": "DH2871",
+        "order_date": "2026-05-08",
+        "items": [
+          {
+            "product_id": "SP017",
+            "product_name": "Snack khoai tây vị BBQ 60g",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP013",
+            "product_name": "Bánh quy bơ hộp thiếc 340g",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP029",
+            "product_name": "Hạt nêm 900g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP016",
+            "product_name": "Kẹo dẻo trái cây 100g",
+            "qty_units": 80
+          }
+        ],
+        "total_vnd": 17000000
+      },
+      {
+        "order_id": "DH2872",
+        "order_date": "2026-05-17",
+        "items": [
+          {
+            "product_id": "SP005",
+            "product_name": "Trà xanh không độ 455ml",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP026",
+            "product_name": "Nước mắm cốt 500ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP017",
+            "product_name": "Snack khoai tây vị BBQ 60g",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 56500000
+      },
+      {
+        "order_id": "DH2873",
+        "order_date": "2026-04-04",
+        "items": [
+          {
+            "product_id": "SP042",
+            "product_name": "Sữa tắm hương hoa 900ml",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP030",
+            "product_name": "Muối i-ốt 500g",
+            "qty_units": 50
+          }
+        ],
+        "total_vnd": 57000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH028",
+    "business_name": "Quán cà phê The Corner",
+    "contact_name": "Hà Anh Tuấn",
+    "address": "Cầu Giấy, Hà Nội",
+    "customer_type": "Chuỗi siêu thị mini",
+    "tier": "Đồng",
+    "tier_discount_pct": 2,
+    "credit_limit_vnd": 60000000,
+    "current_debt_vnd": 26503549,
+    "credit_available_vnd": 33496451,
+    "payment_terms_days": 15,
+    "payment_behavior": "Thường trễ 10-20 ngày",
+    "order_count_last_6mo": 8,
+    "avg_order_value_vnd": 17000000,
+    "last_order_date": "2026-07-14",
+    "recent_orders": [
+      {
+        "order_id": "DH2880",
+        "order_date": "2026-05-15",
+        "items": [
+          {
+            "product_id": "SP038",
+            "product_name": "Nước lau sàn hương lavender 1L",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP013",
+            "product_name": "Bánh quy bơ hộp thiếc 340g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP005",
+            "product_name": "Trà xanh không độ 455ml",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP024",
+            "product_name": "Gạo thơm ST25 túi 5kg",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 11500000
+      },
+      {
+        "order_id": "DH2881",
+        "order_date": "2026-04-12",
+        "items": [
+          {
+            "product_id": "SP039",
+            "product_name": "Bột giặt 3kg",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP040",
+            "product_name": "Nước xả vải 1.8L",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP023",
+            "product_name": "Bún gạo khô 500g",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP014",
+            "product_name": "Bánh gạo vị ngọt 150g",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 21000000
+      },
+      {
+        "order_id": "DH2882",
+        "order_date": "2026-05-27",
+        "items": [
+          {
+            "product_id": "SP039",
+            "product_name": "Bột giặt 3kg",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP042",
+            "product_name": "Sữa tắm hương hoa 900ml",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 31000000
+      },
+      {
+        "order_id": "DH2883",
+        "order_date": "2026-04-07",
+        "items": [
+          {
+            "product_id": "SP024",
+            "product_name": "Gạo thơm ST25 túi 5kg",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP012",
+            "product_name": "Sữa bột nguyên kem 400g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP040",
+            "product_name": "Nước xả vải 1.8L",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP020",
+            "product_name": "Mì ăn liền bò hầm",
+            "qty_units": 50
+          }
+        ],
+        "total_vnd": 9000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH029",
+    "business_name": "Tạp hóa Tám Lành",
+    "contact_name": "Phạm Thị Lành",
+    "address": "Chương Mỹ, Hà Nội",
+    "customer_type": "Đại lý cấp 1",
+    "tier": "Vàng",
+    "tier_discount_pct": 8,
+    "credit_limit_vnd": 400000000,
+    "current_debt_vnd": 124079659,
+    "credit_available_vnd": 275920341,
+    "payment_terms_days": 30,
+    "payment_behavior": "Luôn đúng hạn",
+    "order_count_last_6mo": 45,
+    "avg_order_value_vnd": 44000000,
+    "last_order_date": "2026-07-13",
+    "recent_orders": [
+      {
+        "order_id": "DH2890",
+        "order_date": "2026-07-10",
+        "items": [
+          {
+            "product_id": "SP011",
+            "product_name": "Sữa chua uống men sống 65ml",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP026",
+            "product_name": "Nước mắm cốt 500ml",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP045",
+            "product_name": "Khăn giấy rút 180 tờ",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP018",
+            "product_name": "Bánh trung thu thập cẩm 200g",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 24500000
+      },
+      {
+        "order_id": "DH2891",
+        "order_date": "2026-06-21",
+        "items": [
+          {
+            "product_id": "SP037",
+            "product_name": "Nước rửa chén chanh 750ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP023",
+            "product_name": "Bún gạo khô 500g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP027",
+            "product_name": "Nước tương đậu nành 500ml",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP002",
+            "product_name": "Nước ngọt có ga Cam 330ml",
+            "qty_units": 50
+          }
+        ],
+        "total_vnd": 18000000
+      },
+      {
+        "order_id": "DH2892",
+        "order_date": "2026-07-04",
+        "items": [
+          {
+            "product_id": "SP028",
+            "product_name": "Tương ớt 250g",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP011",
+            "product_name": "Sữa chua uống men sống 65ml",
+            "qty_units": 50
+          }
+        ],
+        "total_vnd": 41500000
+      },
+      {
+        "order_id": "DH2893",
+        "order_date": "2026-04-02",
+        "items": [
+          {
+            "product_id": "SP030",
+            "product_name": "Muối i-ốt 500g",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP011",
+            "product_name": "Sữa chua uống men sống 65ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP009",
+            "product_name": "Sữa tươi tiệt trùng 180ml",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 56500000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH030",
+    "business_name": "Đại lý Hưng Thịnh Phát",
+    "contact_name": "Nguyễn Hưng Thịnh",
+    "address": "Ninh Bình",
+    "customer_type": "Đại lý cấp 1",
+    "tier": "Đồng",
+    "tier_discount_pct": 2,
+    "credit_limit_vnd": 120000000,
+    "current_debt_vnd": 15271025,
+    "credit_available_vnd": 104728975,
+    "payment_terms_days": 30,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 17,
+    "avg_order_value_vnd": 29000000,
+    "last_order_date": "2026-07-07",
+    "recent_orders": [
+      {
+        "order_id": "DH2900",
+        "order_date": "2026-04-13",
+        "items": [
+          {
+            "product_id": "SP011",
+            "product_name": "Sữa chua uống men sống 65ml",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP034",
+            "product_name": "Cà phê rang xay 500g",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP005",
+            "product_name": "Trà xanh không độ 455ml",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 13000000
+      },
+      {
+        "order_id": "DH2901",
+        "order_date": "2026-04-20",
+        "items": [
+          {
+            "product_id": "SP031",
+            "product_name": "Đường tinh luyện 1kg",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP021",
+            "product_name": "Phở ăn liền bò",
+            "qty_units": 50
+          }
+        ],
+        "total_vnd": 10500000
+      },
+      {
+        "order_id": "DH2902",
+        "order_date": "2026-05-20",
+        "items": [
+          {
+            "product_id": "SP040",
+            "product_name": "Nước xả vải 1.8L",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP045",
+            "product_name": "Khăn giấy rút 180 tờ",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP011",
+            "product_name": "Sữa chua uống men sống 65ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP041",
+            "product_name": "Dầu gội bồ kết 650ml",
+            "qty_units": 50
+          }
+        ],
+        "total_vnd": 16500000
+      },
+      {
+        "order_id": "DH2903",
+        "order_date": "2026-05-13",
+        "items": [
+          {
+            "product_id": "SP014",
+            "product_name": "Bánh gạo vị ngọt 150g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP003",
+            "product_name": "Nước suối tinh khiết 500ml",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP026",
+            "product_name": "Nước mắm cốt 500ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP034",
+            "product_name": "Cà phê rang xay 500g",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 51000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH031",
+    "business_name": "Siêu thị mini SmartBuy",
+    "contact_name": "Đinh Thu Phương",
+    "address": "Thanh Xuân, Hà Nội",
+    "customer_type": "Đại lý cấp 1",
+    "tier": "Kim cương",
+    "tier_discount_pct": 12,
+    "credit_limit_vnd": 320000000,
+    "current_debt_vnd": 105553897,
+    "credit_available_vnd": 214446103,
+    "payment_terms_days": 30,
+    "payment_behavior": "Luôn đúng hạn",
+    "order_count_last_6mo": 38,
+    "avg_order_value_vnd": 42000000,
+    "last_order_date": "2026-07-11",
+    "recent_orders": [
+      {
+        "order_id": "DH2910",
+        "order_date": "2026-06-19",
+        "items": [
+          {
+            "product_id": "SP041",
+            "product_name": "Dầu gội bồ kết 650ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP020",
+            "product_name": "Mì ăn liền bò hầm",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP042",
+            "product_name": "Sữa tắm hương hoa 900ml",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP027",
+            "product_name": "Nước tương đậu nành 500ml",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 28500000
+      },
+      {
+        "order_id": "DH2911",
+        "order_date": "2026-04-01",
+        "items": [
+          {
+            "product_id": "SP033",
+            "product_name": "Cà phê hòa tan 3in1 hộp 20 gói",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP029",
+            "product_name": "Hạt nêm 900g",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP012",
+            "product_name": "Sữa bột nguyên kem 400g",
+            "qty_units": 50
+          }
+        ],
+        "total_vnd": 20000000
+      },
+      {
+        "order_id": "DH2912",
+        "order_date": "2026-07-13",
+        "items": [
+          {
+            "product_id": "SP040",
+            "product_name": "Nước xả vải 1.8L",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP030",
+            "product_name": "Muối i-ốt 500g",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP012",
+            "product_name": "Sữa bột nguyên kem 400g",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 27500000
+      },
+      {
+        "order_id": "DH2913",
+        "order_date": "2026-04-02",
+        "items": [
+          {
+            "product_id": "SP024",
+            "product_name": "Gạo thơm ST25 túi 5kg",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP006",
+            "product_name": "Trà ô long 450ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP029",
+            "product_name": "Hạt nêm 900g",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 51500000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH032",
+    "business_name": "Tạp hóa Út Nhỏ",
+    "contact_name": "Lê Thị Út",
+    "address": "Ứng Hòa, Hà Nội",
+    "customer_type": "Bếp ăn công nghiệp",
+    "tier": "Đồng",
+    "tier_discount_pct": 2,
+    "credit_limit_vnd": 120000000,
+    "current_debt_vnd": 54322844,
+    "credit_available_vnd": 65677156,
+    "payment_terms_days": 15,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 8,
+    "avg_order_value_vnd": 7000000,
+    "last_order_date": "2026-07-13",
+    "recent_orders": [
+      {
+        "order_id": "DH2920",
+        "order_date": "2026-04-07",
+        "items": [
+          {
+            "product_id": "SP005",
+            "product_name": "Trà xanh không độ 455ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP040",
+            "product_name": "Nước xả vải 1.8L",
+            "qty_units": 50
+          }
+        ],
+        "total_vnd": 23000000
+      },
+      {
+        "order_id": "DH2921",
+        "order_date": "2026-04-27",
+        "items": [
+          {
+            "product_id": "SP044",
+            "product_name": "Giấy vệ sinh 10 cuộn",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP015",
+            "product_name": "Bánh trứng cuộn 200g",
+            "qty_units": 80
+          }
+        ],
+        "total_vnd": 53000000
+      },
+      {
+        "order_id": "DH2922",
+        "order_date": "2026-06-27",
+        "items": [
+          {
+            "product_id": "SP011",
+            "product_name": "Sữa chua uống men sống 65ml",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP021",
+            "product_name": "Phở ăn liền bò",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP040",
+            "product_name": "Nước xả vải 1.8L",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 37000000
+      },
+      {
+        "order_id": "DH2923",
+        "order_date": "2026-05-11",
+        "items": [
+          {
+            "product_id": "SP014",
+            "product_name": "Bánh gạo vị ngọt 150g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP038",
+            "product_name": "Nước lau sàn hương lavender 1L",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP017",
+            "product_name": "Snack khoai tây vị BBQ 60g",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 16500000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH033",
+    "business_name": "Bếp ăn KCN Bắc Thăng Long",
+    "contact_name": "Trương Văn Nam",
+    "address": "Đông Anh, Hà Nội",
+    "customer_type": "Đại lý cấp 2",
+    "tier": "Đồng",
+    "tier_discount_pct": 2,
+    "credit_limit_vnd": 90000000,
+    "current_debt_vnd": 40764230,
+    "credit_available_vnd": 49235770,
+    "payment_terms_days": 15,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 14,
+    "avg_order_value_vnd": 27000000,
+    "last_order_date": "2026-07-02",
+    "recent_orders": [
+      {
+        "order_id": "DH2930",
+        "order_date": "2026-06-28",
+        "items": [
+          {
+            "product_id": "SP008",
+            "product_name": "Nước ép cam ép 1L",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP034",
+            "product_name": "Cà phê rang xay 500g",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP004",
+            "product_name": "Nước suối tinh khiết 1.5L",
+            "qty_units": 80
+          }
+        ],
+        "total_vnd": 42000000
+      },
+      {
+        "order_id": "DH2931",
+        "order_date": "2026-07-24",
+        "items": [
+          {
+            "product_id": "SP007",
+            "product_name": "Nước tăng lực Number 1",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP017",
+            "product_name": "Snack khoai tây vị BBQ 60g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP035",
+            "product_name": "Trà túi lọc hương nhài 25 gói",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP041",
+            "product_name": "Dầu gội bồ kết 650ml",
+            "qty_units": 30
+          }
+        ],
+        "total_vnd": 41500000
+      },
+      {
+        "order_id": "DH2932",
+        "order_date": "2026-04-15",
+        "items": [
+          {
+            "product_id": "SP024",
+            "product_name": "Gạo thơm ST25 túi 5kg",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP022",
+            "product_name": "Cháo ăn liền thịt bằm",
+            "qty_units": 20
+          }
+        ],
+        "total_vnd": 44000000
+      },
+      {
+        "order_id": "DH2933",
+        "order_date": "2026-06-21",
+        "items": [
+          {
+            "product_id": "SP004",
+            "product_name": "Nước suối tinh khiết 1.5L",
+            "qty_units": 80
+          },
+          {
+            "product_id": "SP019",
+            "product_name": "Mì ăn liền tôm chua cay",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP034",
+            "product_name": "Cà phê rang xay 500g",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP017",
+            "product_name": "Snack khoai tây vị BBQ 60g",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 5000000
+      }
+    ]
+  },
+  {
+    "customer_id": "KH034",
+    "business_name": "Đại lý Đại Phát",
+    "contact_name": "Nguyễn Đại Phát",
+    "address": "Nam Định",
+    "customer_type": "Đại lý cấp 2",
+    "tier": "Mới",
+    "tier_discount_pct": 0,
+    "credit_limit_vnd": 0,
+    "current_debt_vnd": 0,
+    "credit_available_vnd": 0,
+    "payment_terms_days": 0,
+    "payment_behavior": "Chưa có lịch sử",
+    "order_count_last_6mo": 0,
+    "avg_order_value_vnd": 4000000,
+    "last_order_date": null,
+    "recent_orders": []
+  },
+  {
+    "customer_id": "KH035",
+    "business_name": "Tạp hóa Mười Một",
+    "contact_name": "Trần Thị Mười",
+    "address": "Phúc Thọ, Hà Nội",
+    "customer_type": "Nhà hàng - Quán ăn",
+    "tier": "Đồng",
+    "tier_discount_pct": 2,
+    "credit_limit_vnd": 120000000,
+    "current_debt_vnd": 25661345,
+    "credit_available_vnd": 94338655,
+    "payment_terms_days": 15,
+    "payment_behavior": "Đúng hạn",
+    "order_count_last_6mo": 19,
+    "avg_order_value_vnd": 19000000,
+    "last_order_date": "2026-07-09",
+    "recent_orders": [
+      {
+        "order_id": "DH2950",
+        "order_date": "2026-04-01",
+        "items": [
+          {
+            "product_id": "SP032",
+            "product_name": "Bột ngọt 400g",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP015",
+            "product_name": "Bánh trứng cuộn 200g",
+            "qty_units": 10
+          }
+        ],
+        "total_vnd": 41000000
+      },
+      {
+        "order_id": "DH2951",
+        "order_date": "2026-06-18",
+        "items": [
+          {
+            "product_id": "SP020",
+            "product_name": "Mì ăn liền bò hầm",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP007",
+            "product_name": "Nước tăng lực Number 1",
+            "qty_units": 50
+          },
+          {
+            "product_id": "SP034",
+            "product_name": "Cà phê rang xay 500g",
+            "qty_units": 80
+          }
+        ],
+        "total_vnd": 24000000
+      },
+      {
+        "order_id": "DH2952",
+        "order_date": "2026-07-06",
+        "items": [
+          {
+            "product_id": "SP009",
+            "product_name": "Sữa tươi tiệt trùng 180ml",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP014",
+            "product_name": "Bánh gạo vị ngọt 150g",
+            "qty_units": 10
+          },
+          {
+            "product_id": "SP024",
+            "product_name": "Gạo thơm ST25 túi 5kg",
+            "qty_units": 20
+          },
+          {
+            "product_id": "SP040",
+            "product_name": "Nước xả vải 1.8L",
+            "qty_units": 100
+          }
+        ],
+        "total_vnd": 14500000
+      },
+      {
+        "order_id": "DH2953",
+        "order_date": "2026-05-28",
+        "items": [
+          {
+            "product_id": "SP007",
+            "product_name": "Nước tăng lực Number 1",
+            "qty_units": 100
+          },
+          {
+            "product_id": "SP005",
+            "product_name": "Trà xanh không độ 455ml",
+            "qty_units": 30
+          },
+          {
+            "product_id": "SP041",
+            "product_name": "Dầu gội bồ kết 650ml",
+            "qty_units": 50
+          }
+        ],
+        "total_vnd": 56500000
+      }
+    ]
+  }
+]
