@@ -102,11 +102,11 @@
   {
     "product_id": "SP011",
     "product_name": "Sữa chua uống men sống 65ml",
-    "qty_on_hand_units": 25,
-    "qty_reserved_units": 8,
-    "qty_available_units": 3,
-    "stock_status": "Sắp hết",
-    "restock_eta_date": "2026-07-26",
+    "qty_on_hand_units": 420,
+    "qty_reserved_units": 20,
+    "qty_available_units": 400,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
     "warehouse": "Kho Hưng Yên"
   },
   {
@@ -182,11 +182,11 @@
   {
     "product_id": "SP019",
     "product_name": "Mì ăn liền tôm chua cay",
-    "qty_on_hand_units": 3,
-    "qty_reserved_units": 0,
-    "qty_available_units": 3,
-    "stock_status": "Sắp hết",
-    "restock_eta_date": "2026-07-30",
+    "qty_on_hand_units": 620,
+    "qty_reserved_units": 20,
+    "qty_available_units": 600,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
     "warehouse": "Kho Hà Nội"
   },
   {
@@ -432,11 +432,11 @@
   {
     "product_id": "SP044",
     "product_name": "Giấy vệ sinh 10 cuộn",
-    "qty_on_hand_units": 17,
-    "qty_reserved_units": 8,
-    "qty_available_units": 10,
-    "stock_status": "Sắp hết",
-    "restock_eta_date": "2026-07-27",
+    "qty_on_hand_units": 370,
+    "qty_reserved_units": 20,
+    "qty_available_units": 350,
+    "stock_status": "Còn hàng",
+    "restock_eta_date": null,
     "warehouse": "Kho Hưng Yên"
   },
   {
