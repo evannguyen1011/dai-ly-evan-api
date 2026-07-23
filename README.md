@@ -1,4 +1,4 @@
-# Ánh Dương Apparel - Customer / Inventory / Quote API
+# Đại lý Evan - Customer / Inventory / Quote API
 
 Server FastAPI phục vụ 1 AI agent bên ngoài (chạy trên PAL/MindPal) đọc dữ
 liệu khách hàng, tồn kho và lưu báo giá. Có **2 mặt cùng chạy trên 1 server**:
